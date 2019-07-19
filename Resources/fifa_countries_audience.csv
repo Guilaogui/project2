@@ -1,0 +1,177 @@
+country,confederation,population_share,tv_audience_share,gdp_weighted_share
+Afghanistan,AFC,0.4,0.3,0
+Albania,UEFA,0,0.1,0.1
+Algeria,CAF,0.5,0.4,0.3
+Andorra,AD,0,0,0
+Angola,CAF,0.3,0.1,0.1
+Antigua and Barbuda,CONCACAF,0,0,0
+Argentina,CONMEBOL,0.6,1.5,1.6
+Armenia,UEFA,0,0.1,0
+Aruba,CONCACAF,0,0,0
+Australia,AFC,0.3,0.3,0.5
+Austria,UEFA,0.1,0.3,0.6
+Azerbaijan,UEFA,0.1,0.1,0.1
+Bahrain,AFC,0,0,0
+Bangladesh,AFC,2.2,0.1,0
+Barbados,CONCACAF,0,0,0
+Belarus,UEFA,0.1,0.2,0.2
+Belgium,UEFA,0.2,0.3,0.7
+Benin,CAF,0.1,0,0
+Bermuda,CONCACAF,0,0,0
+Bolivia,CONMEBOL,0.1,0.1,0
+Bosnia-Herzegovina,UEFA,0.1,0.1,0.1
+Botswana,CAF,0,0,0
+Brazil,CONMEBOL,2.8,7.1,5.4
+Brunei,AFC,0,0,0.1
+Bulgaria,UEFA,0.1,0.2,0.2
+Burkina Faso,CAF,0.2,0.1,0
+Burundi,CAF,0.1,0.1,0
+Cambodia,AFC,0.2,0.5,0.1
+Cameroon,CAF,0.3,0.2,0
+Canada,CONCACAF,0.5,0.5,1
+Cape Verde,CAF,0,0,0
+Cayman Islands,CONCACAF,0,0,0
+Central African Republic,CAF,0.1,0,0
+Chad,CAF,0.2,0,0
+Chile,CONMEBOL,0.3,0.6,0.6
+China,AFC,19.5,14.8,7.3
+Colombia,CONMEBOL,0.7,1.6,0.9
+Congo,CAF,0.9,0.2,0
+Cook Islands,OFC,0,0,0
+Costa Rica,CONCACAF,0.1,0.2,0.1
+Croatia,UEFA,0.1,0.1,0.1
+Cuba,CONCACAF,0.2,0.3,0.3
+Cyprus,UEFA,0,0,0
+Czech Republic,UEFA,0.2,0.3,0.5
+Denmark,UEFA,0.1,0.2,0.5
+Dominica,CONCACAF,0,0,0
+Dominica Republic,CONCACAF,0.1,0.2,0.1
+Ecuador,CONMEBOL,0.2,0.5,0.3
+Egypt,CAF,1.1,0.8,0.5
+El Salvador,CONCACAF,0.1,0.2,0.1
+England,ENG,0.9,2.1,4.2
+Estonia,UEFA,0,0,0
+Ethiopia,CAF,1.3,0.2,0
+Fiji,OFC,0,0,0
+Finland,UEFA,0.1,0.2,0.3
+France,UEFA,0.9,2,4
+Gabon,CAF,0,0,0
+Gambia,CAF,0,0,0
+Georgia,UEFA,0.1,0,0
+Germany,UEFA,1.2,2.9,6.3
+Ghana,CAF,0.4,0.2,0
+Greece,UEFA,0.2,0.3,0.5
+Grenada,CONCACAF,0,0,0
+Guatemala,CONCACAF,0.2,0.2,0.1
+Guinea,CAF,0.2,0.1,0
+Guinea-Bissau,CAF,0,0,0
+Guyana,CONCACAF,0,0,0
+Haiti,CONCACAF,0.1,0.1,0
+Honduras,CONCACAF,0.1,0.3,0.1
+Hong Kong,AFC,0.1,0.1,0.2
+Hungary,UEFA,0.1,0.3,0.4
+Iceland,UEFA,0,0,0
+India,AFC,17.6,2,0.5
+Indonesia,AFC,3.5,6.7,2.9
+Iran,AFC,1.1,0.7,0.6
+Iraq,AFC,0.5,0.5,0.4
+Israel,UEFA,0.1,0.1,0.1
+Italy,UEFA,0.9,2.1,4
+Ivory Coast,CAF,0.3,0.4,0.1
+Jamaica,CONCACAF,0,0.1,0
+Japan,AFC,1.9,4.9,9.1
+Jordan,AFC,0.1,0.1,0.1
+Kazakhstan,UEFA,0.2,0.3,0.3
+Kenya,CAF,0.6,0.3,0
+Korea DPR,AFC,0.4,0.2,0
+Korea Republic,AFC,0.7,1.8,3
+Kuwait,AFC,0,0.1,0.2
+Kyrgyzstan,AFC,0.1,0.1,0
+Laos,AFC,0.1,0.2,0
+Latvia,UEFA,0,0.1,0.1
+Lebanon,AFC,0.1,0.1,0.1
+Lesotho,CAF,0,0,0
+Liberia,CAF,0.1,0,0
+Libya,CAF,0.1,0,0
+Lithuania,UEFA,0,0.1,0.1
+Macau,AFC,0,0,0.1
+Macedonia,UEFA,0,0.1,0
+Madagascar,CAF,0.3,0.1,0
+Malawi,CAF,0.2,0,0
+Malaysia,AFC,0.4,0.7,0.7
+Maldives,AFC,0,0,0
+Mali,CAF,0.2,0,0
+Malta,UEFA,0,0,0
+Mauritania,CAF,0.1,0,0
+Mauritius,CAF,0,0,0
+Mexico,CONCACAF,1.7,3.2,2.6
+Moldova,UEFA,0.1,0.1,0
+Morocco,CAF,0.5,0.1,0
+Mozambique,CAF,0.3,0.1,0
+Myanmar,AFC,0.8,0.1,0
+Namibia,CAF,0,0,0
+Nepal,AFC,0.4,0.4,0
+Netherlands,UEFA,0.2,0.6,1.5
+New Zealand,OFC,0.1,0.1,0.1
+Nicaragua,CONCACAF,0.1,0.1,0
+Niger,CAF,0.2,0.1,0
+Nigeria,CAF,2.3,2.6,0.7
+Norway,UEFA,0.1,0.1,0.4
+Oman,AFC,0,0,0.1
+Pakistan,AFC,2.5,0.4,0.1
+Panama,CONCACAF,0.1,0.1,0.1
+Papua New Guinea,OFC,0.1,0.1,0
+Paraguay,CONMEBOL,0.1,0.2,0.1
+Peru,CONMEBOL,0.4,0.8,0.4
+Philippines,AFC,1.4,0.1,0
+Poland,UEFA,0.6,1.2,1.3
+Portugal,UEFA,0.2,0.4,0.5
+Qatar,AFC,0,0,0.2
+Romania,UEFA,0.3,0.7,0.6
+Russia,UEFA,2.1,3.1,3.5
+Rwanda,CAF,0.2,0,0
+Samoa,OFC,0,0,0
+Saudi Arabia,AFC,0.4,0.5,1.2
+Senegal,CAF,0.2,0.2,0
+Seychelles,CAF,0,0,0
+Sierra Leone,CAF,0.1,0,0
+Singapore,AFC,0.1,0.2,0.6
+Slovakia,UEFA,0.1,0.2,0.3
+Slovenia,UEFA,0,0.1,0.1
+Solomon Islands,OFC,0,0,0
+Somalia,CAF,0.1,0,0
+South Africa,CAF,0.7,1.3,0.8
+Spain,UEFA,0.7,1.8,3.1
+Sri Lanka,AFC,0.3,0.1,0
+St. Kitts,CONCACAF,0,0,0
+St. Lucia,CONCACAF,0,0,0
+St. Vincent,CONCACAF,0,0,0
+Sudan,CAF,0.5,0.1,0
+Suriname,CONCACAF,0,0,0
+Swaziland,CAF,0,0,0
+Sweden,UEFA,0.1,0.3,0.7
+Switzerland,UEFA,0.1,0.3,0.7
+Syria,AFC,0.3,0.3,0.1
+Taiwan,AFC,0.3,0.5,1
+Tajikistan,AFC,0.1,0.1,0
+Tanzania,CAF,0.7,0.1,0
+Thailand,AFC,1,2.4,1.6
+Togo,CAF,0.1,0,0
+Tonga,OFC,0,0,0
+Trinidad and Tobago,CONCACAF,0,0,0
+Tunisia,AFC,0.2,0,0
+Turkey,UEFA,1.1,2.3,2
+Turkmenistan,AFC,0.1,0.1,0.1
+Uganda,CAF,0.5,0.2,0
+Ukraine,UEFA,0.7,0.9,0.4
+United Arab Emirates,AFC,0,0,0
+Uruguay,CONMEBOL,0,0.1,0.1
+USA,CONCACAF,4.5,4.3,11.3
+Uzbekistan,AFC,0.4,0.5,0.1
+Vanuatu,OFC,0,0,0
+Venezuela,CONMEBOL,0.4,1,0.9
+Vietnam,AFC,1.3,2.6,0.6
+Yemen,CAF,0.3,0.4,0.1
+Yugoslavia,UEFA,0.1,0.1,0.1
+Zambia,CAF,0.2,0.1,0
+Zimbabwe,CAF,0.2,0.1,0
